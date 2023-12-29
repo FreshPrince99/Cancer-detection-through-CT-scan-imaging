@@ -1,0 +1,7 @@
+streamlit-lottie
+requests
+torchvision
+pandas
+scikit-learn
+pathlib
+torchinfo
